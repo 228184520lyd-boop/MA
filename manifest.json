@@ -1,0 +1,11 @@
+{
+  "display_name": "Mirror Abyss / 镜渊",
+  "loading_order": 10,
+  "js": "index.js",
+  "css": "style.css",
+  "author": "228184520lyd-boop",
+  "version": "4.0.131",
+  "minimum_client_version": "1.18.0",
+  "auto_update": false,
+  "description": "SillyTavern 世界书长期记忆管理｜世界书唯一事实源"
+}
